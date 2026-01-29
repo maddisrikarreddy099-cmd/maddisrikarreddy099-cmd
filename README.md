@@ -53,6 +53,9 @@ supporting ML, analytics, and regulated workloads.
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maddisrikarreddy099-cmd&layout=compact&theme=dark)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=maddisrikarreddy099-cmd&theme=dark)
+
+
 ---
 
 ## 📌 Selected Engineering Projects
