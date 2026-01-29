@@ -49,9 +49,9 @@ supporting ML, analytics, and regulated workloads.
 ---
 
 ## 📊 GitHub Stats
-![Srikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=maddisrikarreddy099-cmd&show_icons=true&theme=dark&hide_border=true)
+![Srikar's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maddisrikarreddy099-cmd&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maddisrikarreddy099-cmd&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maddisrikarreddy099-cmd&layout=compact&theme=dark)
 
 ---
 
