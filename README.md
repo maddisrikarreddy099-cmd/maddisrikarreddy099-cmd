@@ -54,7 +54,7 @@ supporting ML, analytics, and regulated workloads.
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maddisrikarreddy099-cmd&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maddisrikarreddy099-cmd&theme=dark)
+![GitHub Streak](https://streak-stats.vercel.app?user=maddisrikarreddy099-cmd&theme=dark&hide_border=true)
 
 
 
