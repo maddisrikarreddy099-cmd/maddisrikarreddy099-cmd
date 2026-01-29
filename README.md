@@ -1,7 +1,7 @@
 # Hi, I'm Srikar Reddy Maddi 👋  
 ### Data Engineer | Distributed Systems | Streaming & Lakehouse Architectures
 
-I am a Data Engineer with 5+ years of experience designing, building, and operating
+I am a Data Engineer with 6 years of experience designing, building, and operating
 production-grade data platforms across batch and real-time systems.
 
 My core focus is on scalable data pipelines, streaming architectures,
